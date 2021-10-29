@@ -17,3 +17,6 @@ React and ES6 by building a Movie Discovery App
 - [ ] Top Rated (TV, Movie)
 - [ ] Popular (TV, Movie)
 - [ ] Airing Today (TV)
+
+
+https://gomgul.github.io/Netflix-clone-2021/#/
